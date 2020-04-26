@@ -37,4 +37,5 @@ The mechanize lib is used to fetch the remote list of name servers and I used th
 ```
 pip install blessings
 pip install mechanize
+pip install dnspython
 ```
